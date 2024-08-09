@@ -10,7 +10,7 @@
 // app.use(cors());
 
 // // MongoDB connection
-// mongoose.connect('mongodb+srv://sandeepkadam1798sk:7JR5jpiit3Z94wli@dashbord.stgy8.mongodb.net/dashbord', {
+// mongoose.connect('DBURL', {
 //     useNewUrlParser: true,
 //     useUnifiedTopology: true,
 // });
